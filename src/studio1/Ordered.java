@@ -16,6 +16,8 @@ public class Ordered {
 		System.out.println("Value for z?");
 		int z = in.nextInt();
 
+		String is0rdered = 
+		
 	}
 
 }
